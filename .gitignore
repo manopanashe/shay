@@ -1,0 +1,49 @@
+<<<<<<< HEAD
+/week 1/week1/nbproject/
+/week 1/week1/target/
+
+=======
+>>>>>>> 4f94fd6f71e4f8032a934a90cca189b66beb2c92
+# specific for this file
+/maven/
+
+ 
+# Maven
+log/
+target/
+
+# Eclipse
+.classpath
+.project
+.settings/
+ 
+# Intellij
+.idea/
+*.iml
+*.iws
+ 
+# Mac
+.DS_Store
+
+
+# NetBeans specific #
+nbproject
+build/
+nbbuild/
+dist/
+nbdist/
+nbactions.xml
+nb-configuration.xml
+
+# Class Files #
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+<<<<<<< HEAD
+*.zip
+=======
+*.zip
+>>>>>>> 4f94fd6f71e4f8032a934a90cca189b66beb2c92
